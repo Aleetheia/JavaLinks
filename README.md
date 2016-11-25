@@ -20,3 +20,7 @@ Java links ans ressources to learn the right way
 #### Videos
 - [Youtube](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 
+#### Podcasts/blogs
+- [Octo](http://blog.octo.com/)
+- [CastCodeurs](https://lescastcodeurs.com/)
+
