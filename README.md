@@ -10,6 +10,7 @@ Java links ans ressources to learn the right way
 - [Java design Patters](http://java-design-patterns.com/)
 - [Java 2s](http://www.java2s.com/)
 - [Java le soir](http://blog.paumard.org/cours-tutoriaux/)
+- [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-programmer-en-java/notre-premiere-fenetre)
 
 
 #### PDF books
