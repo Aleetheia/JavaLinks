@@ -27,8 +27,8 @@ Java links ans ressources to learn the right way
 
 ##SQL Links
 
-http://www.lirmm.fr/~meynard/Ens2/IMG/pdf/plsql.pdf
-https://zestedesavoir.com/tutoriels/297/petit-guide-de-sql-plus/
+- [PDF](http://www.lirmm.fr/~meynard/Ens2/IMG/pdf/plsql.pdf)
+- [SQL Plus](https://zestedesavoir.com/tutoriels/297/petit-guide-de-sql-plus/)
 
 ####Oracle Doc
 - [Building with blocks](http://www.oracle.com/technetwork/issue-archive/2011/11-mar/o21plsql-242570.html)
