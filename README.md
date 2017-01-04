@@ -1,9 +1,8 @@
+## Markdown
+- [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## JavaLinks
 Java links ans ressources to learn the right way
-
-
-#### Markdown
-- [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 #### Online courses
 - [Java Notes](http://math.hws.edu/javanotes/)
@@ -25,3 +24,17 @@ Java links ans ressources to learn the right way
 - [Octo](http://blog.octo.com/)
 - [CastCodeurs](https://lescastcodeurs.com/)
 
+
+##SQL Links
+
+http://www.lirmm.fr/~meynard/Ens2/IMG/pdf/plsql.pdf
+
+####Oracle Doc
+http://www.oracle.com/technetwork/issue-archive/2011/11-mar/o21plsql-242570.html
+http://www.oracle.com/technetwork/issue-archive/2011/11-jul/o41plsql-402935.html
+http://www.oracle.com/technetwork/issue-archive/2012/12-mar/o22plsql-1518275.html
+http://www.oracle.com/technetwork/issue-archive/2012/12-jan/o12plsql-1408561.html
+http://www.oracle.com/technetwork/issue-archive/2013/13-mar/o23plsql-1906474.html
+
+####Live SQL
+http://www.oracle.com/technetwork/database/application-development/livesql/index.html
