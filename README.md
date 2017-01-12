@@ -44,6 +44,7 @@ Java links ans ressources to learn the right way
 
 
 ##Data Science
+- [Intro to data science](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf)
 
 ###Articles de reference
 - [Shannon](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)
