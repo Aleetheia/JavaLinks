@@ -41,3 +41,10 @@ Java links ans ressources to learn the right way
 
 ####Live SQL
 - [Applet](http://www.oracle.com/technetwork/database/application-development/livesql/index.html)
+
+
+##Data Science
+
+###Articles de reference
+- [Shannon](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf)
+- [Tukey](http://projecteuclid.org/download/pdf_1/euclid.aoms/1177704711)
