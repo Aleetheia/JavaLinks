@@ -44,6 +44,7 @@ Java links ans ressources to learn the right way
 
 
 ##Data Science
+- [Intro to statistical learning (in R)](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 - [Intro to data science](https://ischool.syr.edu/media/documents/2012/3/DataScienceBook1_1.pdf)
 
 ###Articles de reference
