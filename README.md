@@ -10,6 +10,7 @@ Java links ans ressources to learn the right way
 - [Java 2s](http://www.java2s.com/)
 - [Java le soir](http://blog.paumard.org/cours-tutoriaux/)
 - [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-programmer-en-java/notre-premiere-fenetre)
+- [Java for python devs](http://interactivepython.org/runestone/static/java4python/Java4Python.html#why-learn-another-programming-language)
 
 
 #### PDF books
